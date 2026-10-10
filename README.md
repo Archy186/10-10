@@ -21,3 +21,7 @@
 Объясните, почему при этом не был удалён docker-образ nginx:latest. Ответ ОБЯЗАТЕЛЬНО НАЙДИТЕ В ПРЕДОСТАВЛЕННОМ КОДЕ, а затем ОБЯЗАТЕЛЬНО ПОДКРЕПИТЕ строчкой из документации terraform провайдера docker. (ищите в классификаторе resource docker_image )
 
 ## Ответ
+<img width="937" height="327" alt="Задание 1" src="https://github.com/user-attachments/assets/c4a8d943-3655-4a1e-8c84-8e59e082c68d" />
+<img width="767" height="883" alt="Задание 2" src="https://github.com/user-attachments/assets/c4044e5d-b38a-46a9-ac1d-3c527fec2614" />
+<img width="922" height="895" alt="Задание 3" src="https://github.com/user-attachments/assets/8d844d81-0df3-4bbd-aa3a-6a44555d8a8f" />
+<img width="629" height="275" alt="задание 5" src="https://github.com/user-attachments/assets/3880d78d-2b89-4973-bb92-90c07a28ffe1" />
